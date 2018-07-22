@@ -8,11 +8,11 @@ N26's Transactions & Statistics test
 * Logback for logging
 
 ## Overview
-The purpose of this assignment is to create a RESTful API to the create transactions and get statistics. 
+The purpose of this assignment is to create a RESTful API to the create transactions and get statistics (last 60 seconds). 
 
-The API exposes 4 endpoints :
+The API exposes 2 endpoints :
 
-POST /transactions/
+POST /transactions
 
 GET /statistics
 
